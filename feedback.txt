@@ -1,0 +1,36 @@
+Rating: 4
+Comments: nice
+---------------------------
+Rating: 5
+Comments: great
+---------------------------
+Rating: 4
+Comments: nice service
+---------------------------
+Rating: 2
+Comments: needs improvements
+---------------------------
+Rating: 5
+Comments: great service
+---------------------------
+Rating: 5
+Comments: grt service
+---------------------------
+Rating: 4
+Comments: liked your service
+---------------------------
+Rating: 3
+Comments: need some more improvements
+---------------------------
+Rating: 5
+Comments: Great improvements
+---------------------------
+Rating: 5
+Comments: good service
+---------------------------
+Rating: 5
+Comments: good
+---------------------------
+Rating: 4
+Comments: NICE SERVICE
+---------------------------
