@@ -65,7 +65,7 @@ node *head, *list;
 int main(){
 
 	system("title Bakery Management System");
-	system("mode con: cols=88 lines=30"); //set the size of console
+	system("mode con: cols=130 lines=30"); //set the size of console
 
 	pwellcome();
 	Sleep(300);
@@ -872,7 +872,7 @@ void ccolor(int clr){
 void pwellcome(){
 	ccolor(26);
 
-	char welcome[100]="WELCOME TO BAKERY";
+	char welcome[100]="WELCOME TO BAKERY.........Credits to Soham Ambekar";
 	printf("\n\n\n\n\n\t\t\t");
 	for(int wlc=0; wlc<strlen(welcome);wlc++){
 
